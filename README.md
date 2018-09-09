@@ -1,9 +1,9 @@
 #CUMCLAIM
 Multi Creepycoin
------------------------------
-DOGE | BCH | BLK | BTC | BTX |
-DASH | ETH | LTC | PPC | XPM |  
------------------------------
+
+DOGE=BCH=BLK=BTC=BTX
+DASH=ETH=LTC=PPC=XPM  
+
 Install Termux:
 
 apt update && apt upgrade
