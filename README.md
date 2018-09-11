@@ -14,7 +14,7 @@ apt install php
 
 cd cumclaim
 
-php cumlaim
+php cumlaim.php
 
 Install to Xenial Puppy Linux and all Distro:
 Pleas install Package PHP
